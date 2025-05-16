@@ -5,11 +5,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.7+-yellow.svg)
 
-<p align="center">
-  <img src="/api/placeholder/800/400" alt="Travel Planner Banner" width="800"/>
-</p>
-
-> An interactive Jupyter Notebook-based tool designed to help travelers plan, organize, and visualize their trips efficiently.
+An interactive Jupyter Notebook-based tool designed to help travelers plan, organize, and visualize their trips efficiently.
 
 ## ✨ Features
 
